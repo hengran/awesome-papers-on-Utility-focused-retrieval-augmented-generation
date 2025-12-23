@@ -84,7 +84,7 @@
 12. Zobel, J., Moffat, A., & Ramamohanarao, K. (1998). Inverted files versus signature files for text indexing. ACM Transactions on Database Systems (TODS), 23(4), 453-490.
     
 # Utility in RAG
-##  Information Utilization
+##  How to Generate?
 ### In-context Injection
 1. Jin, B., Yoon, J., Han, J., & Arik, S. O. (2024). Long-context llms meet rag: Overcoming challenges for long inputs in rag. arXiv preprint arXiv:2410.05983.
 2. Liu N F, Lin K, Hewitt J, et al. Lost in the middle: How language models use long contexts[J]. arXiv preprint arXiv:2307.03172, 2023.
@@ -104,7 +104,7 @@
 7. Sun, E., Wang, Y., & Tian, L. (2024). Block-attention for efficient rag. arXiv e-prints, arXiv-2409.
 8. Dong, Q., Ai, Q., Wang, H., Liu, Y., Li, H., Su, W., ... & Ma, S. (2025, April). Decoupling Knowledge and Context: An Efficient and Effective Retrieval Augmented Generation Framework via Cross Attention. In Proceedings of the ACM on Web Conference 2025 (pp. 4386-4395).
 
-## Document Utility Judgments 
+## What 
 ### Verbalized
 1. Dong, Q., Ai, Q., Wang, H., Liu, Y., Li, H., Su, W., ... & Ma, S. (2025, April). Decoupling Knowledge and Context: An Efficient and Effective Retrieval Augmented Generation Framework via Cross Attention. In Proceedings of the ACM on Web Conference 2025 (pp. 4386-4395).
 2. Zhang, H., Zhang, R., Guo, J., de Rijke, M., Fan, Y., & Cheng, X. (2024, July). Are Large Language Models Good at Utility Judgments?. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1941-1951).
