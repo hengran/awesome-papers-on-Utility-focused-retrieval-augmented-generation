@@ -191,6 +191,13 @@
 2. Li, X., Jin, J., Zhou, Y., Wu, Y., Li, Z., Ye, Q., & Dou, Z. (2024). Retrollm: Empowering large language models to retrieve fine-grained evidence within generation. arXiv preprint arXiv:2412.11919.
 3. Tang, Q., Chen, J., Li, Z., Yu, B., Lu, Y., Yu, H., ... & Li, Y. (2024). Self-retrieval: End-to-end information retrieval with one large language model. Advances in Neural Information Processing Systems, 37, 63510-63533.
 
+## Context-Dependent Utility
+1. Jain, A., & Garimella, A. (2025, December). Modeling Contextual Passage Utility for Multihop Question Answering. In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (pp. 464-471).
+
+
+## Utility-focused Reformatting     
+1. Kim, J., Kim, J., Hwang, S. W., Song, S., & Song, Y. I. (2025). Relevance to Utility: Process-Supervised Rewrite for RAG. arXiv preprint arXiv:2509.15577.
+
 
    
 
