@@ -148,6 +148,7 @@
 4. Chen, M., Sun, L., Li, T., Sun, H., Zhou, Y., Zhu, C., ... & Chen, W. (2025). Learning to reason with search for llms via reinforcement learning. arXiv preprint arXiv:2503.19470.
 5. Chen, Y., Yan, L., Sun, W., Ma, X., Zhang, Y., Wang, S., ... & Mao, J. (2025). Improving retrieval-augmented generation through multi-agent reinforcement learning. arXiv preprint arXiv:2501.15228.
 6. Gao, J., Li, L., Li, W., Fu, Y., & Dai, B. (2024). Smartrag: Jointly learn rag-related tasks from the environment feedback. arXiv preprint arXiv:2410.18141.
+7. Yao, S., Huang, P., Liu, Z., Gu, Y., Yan, Y., Yu, S., & Yu, G. (2025). ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing.
 ## Training Paradigms for RAG
 ### Independent Training: Decoupled Optimization
 1. Izacard, G., & Grave, E. (2020). Leveraging passage retrieval with generative models for open domain question answering. arXiv preprint arXiv:2007.01282.
